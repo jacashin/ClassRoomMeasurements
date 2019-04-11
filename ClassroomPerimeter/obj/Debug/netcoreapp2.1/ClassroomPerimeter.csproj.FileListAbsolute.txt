@@ -1,0 +1,11 @@
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\bin\Debug\netcoreapp2.1\ClassroomPerimeter.deps.json
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\bin\Debug\netcoreapp2.1\ClassroomPerimeter.runtimeconfig.json
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\bin\Debug\netcoreapp2.1\ClassroomPerimeter.runtimeconfig.dev.json
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\bin\Debug\netcoreapp2.1\ClassroomPerimeter.dll
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\bin\Debug\netcoreapp2.1\ClassroomPerimeter.pdb
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.AssemblyInfoInputs.cache
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.AssemblyInfo.cs
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.dll
+C:\Users\YL\source\repos\ClassroomPerimeter\ClassroomPerimeter\obj\Debug\netcoreapp2.1\ClassroomPerimeter.pdb
